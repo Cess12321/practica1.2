@@ -1,0 +1,44 @@
+*
+{
+    font-family:Helvetica;
+    margin: 10px;
+}
+body
+{
+    background-color: blueviolet;
+}
+h1
+{
+    
+    padding:15px;
+    border: 10px;
+    border-style: double;
+    color: aquamarine;
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+P
+{
+    color: chocolate;
+    text-align: justify;
+    text-indent: 20px;
+    text-transform: unset;
+    border-style: groove;
+    border-radius: 30px;
+    padding: 10px;
+    background-color: aqua;
+}
+img
+{
+
+    background-position: center;
+    background-size: cover;
+    width: 30%;
+    height: 30%;
+    justify-content: center;
+    margin-left: 150px;
+    
+
+}
